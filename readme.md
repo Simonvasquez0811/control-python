@@ -87,6 +87,31 @@ El programa define la variable `edad` y utiliza una expresión condicional (oper
 # PUNTO 29
 El programa define las variables `a` y `b` y utiliza una expresión condicional (operador ternario) para mostrar el valor máximo entre los dos números.
 
+# PUNTO 30
+El programa define la variable `edad` y utiliza operadores ternarios anidados para clasificar a una persona en tres categorías según su edad: "Menor" si es menor de 18 años, "Joven Adulto" si es menor de 30, y "Adulto" si tiene 30 años o más. Imprime la categoría correspondiente.
+
+# PUNTO 31
+El programa define una lista de números y utiliza una lista por comprensión junto con una expresión condicional (operador ternario) para determinar si cada número es "par" o "impar". El resultado es una lista con la paridad de cada número, que se imprime en pantalla.
+
+# PUNTO 32
+El programa define las variables `dividendo` y `divisor` y utiliza una expresión condicional (operador ternario) para realizar la división solo si el divisor es diferente de cero. Si el divisor es cero, muestra el mensaje "División por cero no permitida".
+
+# PUNTO 33
+El programa define una lista y utiliza una condición compuesta para verificar si la lista no está vacía y si el primer elemento es 'Python'. Si ambas condiciones se cumplen, imprime "El primer elemento es 'Python'."
+
+# PUNTO 34
+El programa define las variables `dividendo` y `divisor` y utiliza una condición compuesta para verificar que el divisor no sea cero y que el resultado de la división sea mayor que 1. Si ambas condiciones se cumplen, imprime el resultado; si no, muestra "No es posible dividir entre cero."
+
+# PUNTO 35
+El programa define dos variables booleanas, `acceso_registrado` y `acceso_permitido`, y utiliza el operador lógico `or` para conceder acceso si al menos una de las condiciones es verdadera. Si alguna es verdadera, imprime "Acceso concedido."
+
+# PUNTO 36
+El programa define una lista de números y utiliza la función `any()` para verificar si al menos uno de los elementos es diferente de cero. Si es así, imprime "Al menos un número es no cero."
+
+# PUNTO 37
+El programa define una lista de valores booleanos y utiliza la función `all()` para verificar si todas las condiciones son verdaderas. Si todas son verdaderas, imprime "Todas las condiciones son verdaderas." Si alguna es falsa, imprime "Al menos una condición es falsa."
+
+
 ---
 
 ## ¿Cómo ejecutar los programas?
