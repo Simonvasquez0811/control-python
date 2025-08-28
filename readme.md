@@ -240,6 +240,125 @@ Implementa el método de Newton-Raphson para encontrar la raíz cuadrada de un n
 Valida un formulario asegurándose de que los campos requeridos estén presentes y correctamente formateados, utilizando `break` para salir temprano en caso de errores críticos y `else` para manejar validaciones adicionales solo si los campos básicos son correctos.
 
 
+----
+## FUNCIONES
+
+# PUNTO 1
+Calcula el área de un rectángulo usando una función que recibe base y altura como argumentos.
+
+# PUNTO 2
+Incluye dos funciones: una para verificar si un número es par y otra para convertir grados Celsius a Fahrenheit.
+
+# PUNTO 3
+Calcula el precio final después de aplicar un porcentaje de descuento (por defecto 10%) a un precio dado.
+
+# PUNTO 4
+Saluda a una persona mostrando su nombre, usando una función con un parámetro.
+
+# PUNTO 5
+Calcula el precio final sumando el impuesto al precio base.
+
+# PUNTO 6
+Saluda a una persona con un mensaje personalizado o predeterminado, usando un parámetro opcional.
+
+# PUNTO 7
+Crea un perfil con nombre, edad y ciudad (por defecto "Madrid"), mostrando los datos en una cadena.
+
+# PUNTO 8
+Divide dos números usando argumentos posicionales y por nombre.
+
+# PUNTO 9
+Crea un usuario como diccionario, usando argumentos por nombre para mayor claridad.
+
+# PUNTO 10
+Calcula el pago total según horas trabajadas, tarifa por hora (por defecto 15) y moneda (por defecto "EUR"), mostrando el resultado como cadena.
+
+# PUNTO 11
+Calcula el precio después de aplicar un descuento, validando los argumentos de entrada.
+
+# PUNTO 12
+Suma una cantidad variable de números usando *args.
+
+# PUNTO 13
+Muestra información usando una cantidad variable de argumentos nombrados con **kwargs.
+
+# PUNTO 14
+Formatea un texto según varias opciones, demostrando el uso de parámetros con valores por defecto y argumentos nombrados.
+
+# PUNTO 15
+Calcula el cuadrado de un número y utiliza return para devolver el resultado.
+
+# PUNTO 16
+Saluda a una persona y muestra que, al no tener un return explícito, la función devuelve None por defecto.
+
+# PUNTO 17
+Calcula varias estadísticas (suma, promedio, mínimo y máximo) de una lista de números y devuelve múltiples valores.
+
+# PUNTO 18
+Realiza una división segura, evitando la división por cero mediante una verificación previa y un return anticipado.
+
+# PUNTO 19
+Define funciones que retornan valores booleanos y muestra su uso en condicionales.
+
+# PUNTO 20
+Calcula el precio final de un producto después de aplicar el IVA, utilizando un valor por defecto para la tasa de IVA.
+
+# PUNTO 21
+Crea una lista de números pares hasta un máximo dado y un diccionario que mapea números a sus cuadrados.
+
+# PUNTO 22
+Filtra los números positivos de una lista dada, devolviendo una lista vacía si la entrada no es válida.
+
+# PUNTO 23
+Calcula el promedio de una lista de números y la impresión del resultado se realiza fuera de la función.
+
+# PUNTO 24
+Devuelve una calificación basada en la puntuación dada, manejando casos de puntuaciones inválidas.
+
+# PUNTO 25
+Convierte una temperatura entre Celsius, Fahrenheit y Kelvin, manejando casos de parámetros inválidos.
+
+# PUNTO 26
+Calcula el promedio de una lista de números, mostrando cómo documentar y devolver el resultado.
+
+# PUNTO 27
+Valida si una dirección de correo electrónico tiene formato correcto, lanzando un error si la entrada no es una cadena.
+
+# PUNTO 28
+Convierte una temperatura de Fahrenheit a Celsius, mostrando el uso de documentación con tipos.
+
+# PUNTO 29
+Filtra los números pares de una lista dada y devuelve una nueva lista con esos números.
+
+# PUNTO 30
+Verifica si una persona es mayor de edad (18 años o más) y devuelve un valor booleano.
+
+# PUNTO 31
+Realiza una división segura entre dos números, devolviendo None si el denominador es cero.
+
+# PUNTO 32
+Calcula el área de un triángulo dado su base y altura, mostrando ejemplos de uso en la documentación.}
+
+# PUNTO 33
+Genera una contraseña aleatoria de una longitud especificada.
+
+# PUNTO 34
+Cuenta el número de palabras en una cadena de texto dada.
+
+# PUNTO 35
+Cuenta el número de palabras en un texto usando la función split.
+
+# PUNTO 36
+Formatea un nombre y apellido en el formato "Apellido, Nombre".
+
+# PUNTO 37
+Devuelve el elemento de una lista en la posición dada por el índice, lanzando un error si el índice está fuera de rango.
+
+# PUNTO 38
+Calcula el precio final de un producto aplicando descuento e impuesto, validando que los valores no sean negativos y mostrando ejemplos de uso en la documentación.
+
+
+
 
 
 ---
