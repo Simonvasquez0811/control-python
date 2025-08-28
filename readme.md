@@ -111,6 +111,141 @@ El programa define una lista de números y utiliza la función `any()` para veri
 # PUNTO 37
 El programa define una lista de valores booleanos y utiliza la función `all()` para verificar si todas las condiciones son verdaderas. Si todas son verdaderas, imprime "Todas las condiciones son verdaderas." Si alguna es falsa, imprime "Al menos una condición es falsa."
 
+## ITERATIVAS
+
+# PUNTO 1
+El programa define una lista de frutas y utiliza un ciclo `for` para imprimir cada fruta en la lista.
+
+# PUNTO 2
+El programa utiliza un ciclo `for` con `range(5)` para imprimir los números del 0 al 4.
+
+# PUNTO 3
+El programa imprime los números del 3 al 7, los números pares del 2 al 10 y realiza una cuenta regresiva del 10 al 1 usando ciclos `for` y la función `range()`.
+
+# PUNTO 4
+El programa define una lista de nombres y utiliza un ciclo `for` junto con `range(len(nombres))` para imprimir cada nombre junto con su posición en la lista.
+
+# PUNTO 5
+El programa define una lista de nombres y utiliza `enumerate()` en un ciclo `for` para imprimir cada nombre junto con su posición en la lista.
+
+# PUNTO 6
+El programa define una cadena de texto y utiliza un ciclo `for` para imprimir cada letra de la cadena.
+
+# PUNTO 7
+El programa define un diccionario llamado `usuario` y utiliza un ciclo `for` para imprimir cada clave y su valor correspondiente.
+
+# PUNTO 8
+El programa crea una lista con los cuadrados de los números del 1 al 5 usando comprensión de listas. También crea una lista con los números pares del 0 al 9 usando una condición en la comprensión de listas.
+
+# PUNTO 9
+El programa utiliza ciclos anidados para crear e imprimir una matriz de multiplicación del 1 al 3.
+
+# PUNTO 10
+El programa calcula la suma de los primeros 10 números naturales utilizando un ciclo `for` y la función `range()`.
+
+# PUNTO 11
+El programa define una función para verificar si un número es primo y utiliza un ciclo `for` para encontrar e imprimir todos los números primos entre 2 y 19.
+
+# PUNTO 12
+El programa analiza las temperaturas diarias de una semana, encuentra el día más caluroso, calcula la temperatura promedio y muestra los días con temperatura superior al promedio.
+
+# PUNTO 13
+El programa imprime los números del 1 al 5 usando un bucle `while`.
+
+# PUNTO 14
+El programa solicita al usuario que introduzca un número y valida la entrada usando un bucle `while`.
+
+# PUNTO 15
+El programa solicita al usuario que introduzca un número y valida la entrada usando un bucle `while`.
+
+# PUNTO 16
+El programa implementa un juego de adivinanza de números con un máximo de 3 intentos usando un bucle `while`.
+
+# PUNTO 17
+El programa simula un sistema de gastos con un saldo inicial de 1000€, permitiendo gastar hasta agotar el saldo.
+
+# PUNTO 18
+El programa solicita al usuario si desea continuar o finalizar un programa, validando la respuesta con un bucle `while`.
+
+# PUNTO 19
+El programa calcula el factorial de un número usando un bucle `while`.
+
+# PUNTO 20
+El programa calcula la raíz cuadrada de un número usando el método de Newton-Raphson y un bucle `while`.
+
+# PUNTO 21
+El programa solicita al usuario que introduzca su edad y valida que esté entre 0 y 120 años usando un bucle `while`.
+
+# PUNTO 22
+Imprime un triángulo de asteriscos con una altura dada usando un bucle `while`.
+
+# PUNTO 23
+Calcula la suma de los primeros 10 números naturales usando `while` y `for`.
+
+# PUNTO 24
+Itera del 1 al 10 e interrumpe el bucle al encontrar el número 5.
+
+# PUNTO 25
+Busca un elemento en una lista y devuelve su índice o -1 si no se encuentra.
+
+# PUNTO 26
+Solicita al usuario que escriba algo y repite hasta que escriba 'salir'.
+
+# PUNTO 27
+Verifica si un número es primo.
+
+# PUNTO 28
+Imprime solo los números impares del 1 al 10, omitiendo los pares.
+
+# PUNTO 29
+Imprime solo las temperaturas positivas de una lista, omitiendo las negativas y cero.
+
+# PUNTO 30
+Divide 10 por cada número en una lista, omitiendo los ceros para evitar errores de división por cero.
+
+# PUNTO 31
+Suma solo los valores numéricos de una lista, ignorando los no numéricos.
+
+# PUNTO 32
+Suma números de una lista, omitiendo múltiplos de 3 y deteniéndose si la suma supera un límite dado.
+
+# PUNTO 33
+Muestra cómo usar bucles anidados y la instrucción `continue` para saltar iteraciones específicas en el bucle interno sin afectar el bucle externo.
+
+# PUNTO 34
+Busca el primer par (i, j) en dos bucles anidados cuya multiplicación sea mayor que 10, y utiliza `break` para salir de ambos bucles una vez encontrado el primer caso.
+
+# PUNTO 35
+Valida contraseñas asegurándose de que tengan al menos 8 caracteres, una letra mayúscula, una letra minúscula y un número, utilizando `continue` para optimizar las verificaciones.
+
+# PUNTO 36
+Procesa una lista de transacciones, ignorando las que no están completadas o tienen montos inválidos, y suma los montos válidos utilizando `continue` para saltar las transacciones no deseadas.
+
+# PUNTO 37
+Muestra cómo usar la instrucción `pass` en un bucle para no hacer nada con los números pares y procesar solo los impares.
+
+# PUNTO 38
+Muestra cómo usar la instrucción `pass` en un bucle para omitir acciones en modo normal y mostrar información solo en modo debug.
+
+# PUNTO 39
+Busca un usuario en una lista y, si no lo encuentra, crea un nuevo perfil para ese usuario utilizando la cláusula `else` del bucle `for`.
+
+# PUNTO 40
+Analiza una lista de valores y utiliza `pass` para manejar explícitamente los casos donde no se requiere acción, además de usar `else` en el bucle `for` para realizar una acción final si no se encontraron advertencias.
+
+# PUNTO 41
+Implementa el método de Newton-Raphson para encontrar la raíz cuadrada de un número, utilizando un bucle `while` con una cláusula `else` para manejar el caso de convergencia exitosa.
+
+# PUNTO 42
+Valida un formulario asegurándose de que los campos requeridos estén presentes y correctamente formateados, utilizando `break` para salir temprano en caso de errores críticos y `else` para manejar validaciones adicionales solo si los campos básicos son correctos.
+
+
+
+
+---
+
+
+
 
 ---
 
